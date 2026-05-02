@@ -57,7 +57,7 @@ bb = "atif kdsf$jetj$ dfjr$ this$is $ the$according$and$and$"
 print(bb.count("$"))
 
 #conditional statement 
-#if() condition##S
+#if() condition##S######
 
 
 
