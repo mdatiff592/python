@@ -1,4 +1,4 @@
-# type programme to check student grade through stydents mark.
+# type programme to check student grade through stydents mark
 
 marks = int(input("type marks :"))
 

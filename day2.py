@@ -122,13 +122,40 @@
 # else:
 #     print("cannot drive")
 
-num = int(input("type number"))
+# # find num is even or odd
+# num = int(input("type number"))
 
-rem = num % 2
+# rem = num % 2
 
-if(rem == 0)
-    number = "even"
+# if(rem == 0):
+#     print("even")
+# else:
+#     print("odd")
+
+# # find gretest of 3 num entered by the user 
+
+# a = int(input("enter first num"))
+# b = int(input("enter second num"))
+# c = int(input("enter third num"))
+# d = int(input("enter fourth num"))
+
+# if(a >= b and a >= c and a>=d):
+#     print("first number is largest", a)
+# elif(b >= c and b >= d):
+#     print("second number is largest", b)
+# elif(c>=d):
+#     print("third number is largest", c)
+# else:
+#     print("fourth number is largest", d)
+
+# # 
+
+num = int(input("type number :"))
+
+rem = num % 7
+
+if(rem == 0):
+    print("multiple")
 else:
-    number = "odd"
-
-print("number is :", number)
+    print("not multiple")
+    
