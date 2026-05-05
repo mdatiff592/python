@@ -41,7 +41,7 @@ print(info.keys())
 print(info.values())
 
 # dict.items
-print(info.items())+
+print(info.items())
 pairs = list(info.items())
 print(pairs[4])
 
