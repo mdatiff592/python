@@ -219,7 +219,7 @@ while i <= n:
 
 print("total sum :", sum)
 
-# wap to find the factorial of first n numbers using for
+# wap to find the factorial of first n numbers using for loop
 
 n1 = 10
 fact = 1
@@ -228,10 +228,3 @@ for val in range(1, n1+1):
 
 # print("factorial =", fact)
 
-n2 = 5
-facto = 1
-while i <= n2:
-    i *= facto
-    i +=1
-
-print("factorial =", facto)
