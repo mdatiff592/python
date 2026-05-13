@@ -7,3 +7,4 @@ print(type(data))
 # f.colse()
 
 # reading a file
+print()
